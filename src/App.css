@@ -13,6 +13,11 @@
   }
 }
 
+#desc {
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
