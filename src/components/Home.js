@@ -5,8 +5,7 @@ import CardContent from '@mui/material/CardContent'
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import PlaceIcon from '@mui/icons-material/Place';
-import ApartmentIcon from '@mui/icons-material/Apartment';
-import { Box, Divider, Grid2, Stack } from '@mui/material';
+import { Box, Grid2, Stack } from '@mui/material';
 import { jobs } from './contants';
 import { JobDetails } from './JobDetails';
 import { DisplayToggle } from './DisplayToggle';
