@@ -14,7 +14,8 @@ export const JobDetails = ({selectedJob, open, setOpen}) => {
         open={open}
         onClose={handleClose}
         scroll={'paper'}
-        sx={{m:4}}
+        fullScreen
+        sx={{maxWidth:"600px", m:"auto", maxHeight:{sm:"800px"}}}
       >
         <DialogTitle id="title">
           <Typography variant='h5' component={'p'}>{selectedJob.title}</Typography>
