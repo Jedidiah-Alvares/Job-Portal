@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Steps to run the program
+
+##Clone the Repo
+git clone https://github.com/Jedidiah-Alvares/Job-Portal.git
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
